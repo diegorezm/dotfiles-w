@@ -1,2 +1,2 @@
 # WSL2 dotfiles
-Just so i don't have to do it later! 
+Just so i don't have to do it again! 
